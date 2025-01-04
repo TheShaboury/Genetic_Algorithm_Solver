@@ -18,14 +18,10 @@ This program uses a genetic algorithm approach to find approximate solutions to 
 ## How to Use
 
 1. Compile the C++ file:
-'''bash
 g++ -std=c++11 genetic_algorithm_solver.cpp -o solver.
-'''
 
 2. Run the executable:
-'''bash
 ./solver
-'''
 
 3. The program will continuously output the top 10 solutions it has found.
 
